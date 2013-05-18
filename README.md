@@ -1,7 +1,7 @@
 Annihilator
 ===========
 
-**Annihilator** is an action-packed game written in [QBasic](http://en.wikipedia.org/wiki/QBasic). I must have been about 12 years old when I made this.
+**Annihilator** is an action-packed game written in [QBasic](http://en.wikipedia.org/wiki/QBasic). It features infinite ammo, cheat codes, and plenty of nasty GOTO statements! I must have been about 12 years old when I made this. :-)
 
 The following screenshots were made using [DOSBox](http://www.dosbox.com/).
 
